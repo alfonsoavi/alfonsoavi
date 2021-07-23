@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Alfonso Avila @alfonsoavi
-- 👀 I’m interested in  seguir instruyendome y apoyando en la programacion
-- 🌱 I’m currently learning la manipulacion de c#
-- 💞️ I’m looking to collaborate on grandes proyectos para alcansar mayor experiencia
-- 📫 How to reach me por esta cuenta.
+- 👋 Hola, soy Alfonso Avila @alfonsoavi
+- 👀 Estoy interesado en  seguir instruyendome y apoyando en la programacion.
+- 🌱 Me encuentro aumentando mis conocimiento con la manipulacion jsp (javaserver).
+- 💞️ Me gustari colaborar con proyectos mas avanzado para alcansar mayor experiencia.
 
 <!---
 alfonsoavi/alfonsoavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
